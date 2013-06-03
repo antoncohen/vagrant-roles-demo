@@ -6,7 +6,7 @@
 :hierarchy:
   - node/roles
   - node/data
-  - location/default
   - location/%{::clientcert}
+  - location/default
   - common/roles
   - common/data

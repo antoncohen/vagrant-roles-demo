@@ -1,0 +1,3 @@
+---
+memcached::max_memory: 64
+nginx::worker_processes: %{::processorcount}

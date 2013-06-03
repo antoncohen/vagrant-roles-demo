@@ -1,0 +1,12 @@
+---
+:backends:
+  - yaml
+:yaml:
+  :datadir: /etc/hiera
+:hierarchy:
+  - node/roles
+  - node/data
+  - location/default
+  - location/%{::clientcert}
+  - common/roles
+  - common/data

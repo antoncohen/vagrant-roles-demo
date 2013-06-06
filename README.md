@@ -1,6 +1,6 @@
 # Puppet Roles Demo #
 
-This is a [vagrant](http://www.vagrantup.com/) configuration to demonstrate using role-based configuration in [puppet](https://puppetlabs.com/), using [hiera](http://docs.puppetlabs.com/hiera/1/index.html) for data.
+This is a [vagrant](http://www.vagrantup.com/) configuration to demonstrate using role-based configuration in [puppet](https://puppetlabs.com/), using [hiera](http://docs.puppetlabs.com/hiera/1/index.html) for data. It was created for a blog post titled [Role-based Puppet with Hiera](http://www.antoncohen.com/2013/06/role-based-puppet-with-hiera.html).
 
 ## Usage ##
 Browse the code at https://github.com/antoncohen/vagrant-roles-demo
